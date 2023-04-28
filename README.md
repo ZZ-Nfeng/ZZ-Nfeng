@@ -13,7 +13,7 @@
 [nfeng's Blog](http://nfeng.asia/)
 
 ## Stats
-![MeowRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZZ-Laurus&show_icons=true&theme=radical)
+![MeowRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZZ-Nfeng&show_icons=true&theme=radical)
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZ-Laurus&layout=compact)](https://github.com/Christmas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZ-Nfeng&layout=compact)](https://github.com/Christmas/github-readme-stats)
