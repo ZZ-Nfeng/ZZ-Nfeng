@@ -1,16 +1,19 @@
-### Hi there 👋
+#### Hi there 👋,I'm Nfeng.From GUET.
+## About
+  大家好，我是Nfeng,中文南风
+  
+  ![](https://img.shields.io/badge/Main%20Language-java-red?logo=java)
 
-<!--
-**ZZ-Nfeng/ZZ-Nfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  梦想着成为一个和棒的程序猿(๑•̀ㅂ•́)و✧，在为自己的目标努力着！！
 
-Here are some ideas to get you started:
+ 
+## Links
+欢迎访问我的博客！
+[nfeng's Blog](http://nfeng.asia/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+![MeowRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZZ-Laurus&show_icons=true&theme=radical)
+
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZ-Laurus&layout=compact)](https://github.com/Christmas/github-readme-stats)
