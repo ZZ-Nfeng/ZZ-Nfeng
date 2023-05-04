@@ -14,7 +14,6 @@
     sad = false;
     beAwesome();
   }
-  // Work hard in silence, let your success be your noise
  ```
 
  
