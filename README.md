@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=microsoft+yahei&size=30&duration=4000&color=2C68F7&center=true&width=360&height=50&lines=Hi,there!👋%20I%20'm%20Nfeng)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=microsoft+yahei&size=30&duration=4000&color=2C68F7&center=true&width=360&height=50&lines=Work%20hard%20in%20silence) ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=microsoft+yahei&size=30&duration=4000&color=2C68F7&center=true&width=360&height=50&lines=let%20your%20success) ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=microsoft+yahei&size=30&duration=4000&color=2C68F7&center=true&width=360&height=50&lines=be%20your%20noise)
 #### I'm Nfeng.From GUET.
 ## About
   大家好，I'm Nfeng(南风)
