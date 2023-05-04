@@ -1,7 +1,7 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=microsoft+yahei&size=30&duration=4000&color=2C68F7&center=true&width=360&height=50&lines=Hi,there!👋)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=microsoft+yahei&size=30&duration=4000&color=2C68F7&center=true&width=360&height=50&lines=Hi,there!👋 I'm Nfeng)
 #### I'm Nfeng.From GUET.
 ## About
-  大家好，我是Nfeng、南风
+  大家好，I'm Nfeng(南风)
   
   
   
